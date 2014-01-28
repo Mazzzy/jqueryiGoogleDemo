@@ -1,3 +1,3 @@
-jquerypocs
+jquery iGoogle Demo
 ==========
-This Repository contains some pocs related to javascript and jquery pocs(small demo apps)
+This Repository iGoogle type demo that contains add/edit/delete functionality using javascript and jquery.
